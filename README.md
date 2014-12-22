@@ -35,18 +35,28 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The ladies priviledge As it was acted with good allowance at the Cock-pit in Drury-lane, and before 
+
+1. To the true Example of Heroicke Vertue, and Favourer of Arts, Sir FREDERICK CORNWALLIS.
+
+1. The Persons.
+
+1. The Prologue.
+
 #####Body#####
 
-1. Act. 1. Scena. 1.
+1. The Ladies Priviledge.
 
-1. Actus Secundus.
+    _ Act. 1. Scena. 1.
 
-1. Actus Tertius.
+    _ Actus Secundus.
 
-1. Actus Quartus.
+    _ Actus Tertius.
 
-1. Actus Quintus.
+    _ Actus Quartus.
+
+    _ Actus Quintus.
+
+1. The Epilogue.
 
 **Types of content**
 
